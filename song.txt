@@ -19,4 +19,7 @@ ehe stroka dlya konflikta
 
 stroka dlya feature
 
+commit with tag
+
+
 
