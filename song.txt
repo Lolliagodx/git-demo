@@ -14,3 +14,6 @@ ehe 2 stroki dobavil
 yes im the best
 
 ogo ehe 1 stroka
+
+stroka dlya feature
+
